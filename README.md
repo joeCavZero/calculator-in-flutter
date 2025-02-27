@@ -2,6 +2,13 @@
 
 This is a simple calculator application built using Flutter. The primary purpose of this project is to learn and practice Flutter development, including state management using the BLoC (Business Logic Component) pattern.
 
+## Screenshots
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="assets/screenshots/01.png" alt="Calculator Page" style="width: 45%;">
+  <img src="assets/screenshots/00.png" alt="Home Page" style="width: 45%;">
+</div>
+
 ## Features
 
 - Basic arithmetic operations: addition, subtraction, multiplication, and division.
@@ -40,13 +47,6 @@ To get started with this project, follow these steps:
    ```sh
    flutter run
    ```
-
-## Screenshots
-
-<div style="display: flex; justify-content: space-around;">
-  <img src="assets/screenshots/01.png" alt="Calculator Page" style="width: 45%;">
-  <img src="assets/screenshots/00.png" alt="Home Page" style="width: 45%;">
-</div>
 
 ## Learning Outcomes
 
