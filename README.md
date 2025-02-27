@@ -55,9 +55,3 @@ This project was created with the intention of learning and practicing Flutter d
 - Building responsive UIs with Flutter.
 - Managing state using the BLoC pattern.
 - Implementing themes and navigation in a Flutter app.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-
